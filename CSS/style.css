@@ -275,3 +275,17 @@ button:hover {
      width: 100%;
   }
 }
+
+
+/* alert message style */
+
+.alert{
+  width: 100%;
+  background-color: green;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 900;
+  display: none;
+}
